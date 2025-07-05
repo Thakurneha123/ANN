@@ -1,6 +1,6 @@
 # Artificial Neural Networks: Perceptron  
-**Name:** Alisha Shrestha  
-**CRN:** 021-307 
+**Name:** Neha Thakur 
+**CRN:** 021-345
 
 ## 🧠 Project Overview
 
